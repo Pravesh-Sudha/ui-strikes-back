@@ -7,9 +7,7 @@ import {
 
 import { tamboConfig } from './tambo/tambo.config';
 import {
-  Radar,
   Activity,
-  ShieldAlert,
   TrendingUp,
   Sparkles,
   Code,

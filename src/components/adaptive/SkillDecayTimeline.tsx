@@ -1,5 +1,3 @@
-import React from 'react';
-
 export interface SkillDecayTimelineProps {
     data: { name: string; lastUsed: string; decayLevel: string }[];
 }
