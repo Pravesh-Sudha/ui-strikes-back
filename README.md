@@ -28,6 +28,16 @@ Analyze your technical skill debt, visualize decay, and find your optimal upgrad
 
 ---
 
+## Screenshots
+
+![Image](/src/images-demo/1.png)
+![Image](/src/images-demo/2.png)
+![Image](/src/images-demo/3.png)
+![Image](/src/images-demo/4.png)
+![Image](/src/images-demo/5.png)
+
+---
+
 ## 🚀 Getting Started
 
 1. **Clone the repository**:
