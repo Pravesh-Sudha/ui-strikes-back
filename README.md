@@ -25,6 +25,7 @@ Analyze your technical skill debt, visualize decay, and find your optimal upgrad
 - **Icons**: [Lucide React](https://lucide.dev/)
 - **AI Integration**: [Tambo SDK](https://tambo.ai)
 - **Markdown**: `react-markdown` + `remark-gfm`
+- The Main Heart of the program is tambo.config.ts inside `src/tambo/tambo.config.ts`
 
 ---
 
