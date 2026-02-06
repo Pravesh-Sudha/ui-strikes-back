@@ -5,10 +5,6 @@ import { RiskWarningCard } from '../components/adaptive/RiskWarningCard';
 import { UpgradeSuggestionCard } from '../components/adaptive/UpgradeSuggestionCard';
 import { ExplanationToggle } from '../components/adaptive/ExplanationToggle';
 
-// Define the Tambo configuration
-// Note: In a real app setup, we might export a configuration object or use the provider directly.
-// This file serves as the centralized registration definition.
-
 export const tamboConfig = {
     components: [
         {
